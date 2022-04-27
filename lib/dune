@@ -1,2 +1,3 @@
 (library
+  (public_name warning32_repro)
  (name warning32_repro))

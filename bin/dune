@@ -1,4 +1,5 @@
 (executable
  (public_name warning32_repro)
+ (package warning32_repro)
  (name main)
  (libraries warning32_repro))
